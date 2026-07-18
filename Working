@@ -1,0 +1,11 @@
+How It Works
+
+    Resolves the MAC address of the target and gateway.
+
+    Enables IP forwarding on the attacker machine.
+
+    Sends spoofed ARP replies to the target and gateway.
+
+    Redirects traffic through the attacker machine.
+
+    Restores the original ARP tables on exit.
